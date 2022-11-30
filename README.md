@@ -1,3 +1,3 @@
 # chapter4_lab2
 learning version control
-this is a new repository
+This repository is created to demonstarate the usage of version control
